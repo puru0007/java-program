@@ -1,2 +1,0 @@
-# explore-indore
-Tourism Website
